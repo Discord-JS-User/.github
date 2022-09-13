@@ -7,3 +7,7 @@ We create packages and resources to help you access Discord as a User using Java
 ## Why Do We Do It
 
 We do this mostly as a passion project, but we also do it because we feel there are many possibilities with resources like these.
+
+<hr />
+
+#### [`Discord.js User Docs`](https://discord-js-user.github.io) [`Discord User API Docs`](https://discord-js-user.github.io/Discord-User-API-Docs/#/)
